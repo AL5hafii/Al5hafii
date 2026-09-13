@@ -1,4 +1,4 @@
-<h1>AL5hafii - ALShafii</h1>
+<h1>AL5hafii</h1>
 
 <div align="center" id="banner">
     <pre>
@@ -33,18 +33,11 @@
   CLI applications, networking tools, and Linux utilities</strong>.
 </p>
 
-<h3>JavaScript Developer</h3>
+<h3>JavaScript / TypeScript Developer</h3>
 
 <p>
   Building modern <strong>web applications, backend services, APIs,
   automation tools, and developer tooling</strong>.
-</p>
-
-<h3>TypeScript Developer</h3>
-
-<p>
-  Building scalable <strong>applications, backend services, APIs,
-  and maintainable JavaScript projects</strong>.
 </p>
 
 </section>
