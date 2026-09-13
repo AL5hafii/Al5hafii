@@ -14,34 +14,18 @@
     </pre>
 </div>
 
-<div align="center" id="programming-languages">
-    <h2>Programming Languages</h2>
-    <p>
-    My primary programming languages are Go (Golang) and JavaScript, which I use
-    for backend development, APIs, CLI tools, automation, web applications,
-    and Linux development.
-    </p>
-    <ul>
-        <li>
-            <h3>Go (Golang) <span style="display:none">Programming Language</span></h3>
-            <p>
-                <span style="display:none">Golang developer</span> building fast, reliable, scalable backend services,
-                REST APIs, CLI applications, networking tools, and Linux utilities.
-            </p>
-        </li>
-        <li>
-            <h3>JavaScript <span style="display:none">Programming Language</span></h3>
-            <p>
-                <span style="display:none">Golang developer</span> building modern web applications, backend
-                services, APIs, automation tools, and developer tooling.
-            </p>
-        </li>
-        <li>
-            <h3>TypeScript <span style="display:none">Programming Language</span></h3>
-            <p>
-                <span style="display:none">Golang developer</span> building scalable applications, backend services,
-                APIs, and maintainable JavaScript projects.
-            </p>
-        </li>
-    </ul>
-</div>
+## Programming Languages
+
+My primary programming languages are **Go (Golang)**, **JavaScript**, and **TypeScript**. I use them for **backend development, APIs, CLI tools, automation, web applications, and Linux development**.
+
+### Go (Golang) Developer
+
+Building fast, reliable, and scalable **backend services, REST APIs, CLI applications, networking tools, and Linux utilities**.
+
+### JavaScript Developer
+
+Building modern **web applications, backend services, APIs, automation tools, and developer tooling**.
+
+### TypeScript Developer
+
+Building scalable **applications, backend services, APIs, and maintainable JavaScript projects**.
