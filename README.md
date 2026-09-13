@@ -14,19 +14,36 @@
     </pre>
 </div>
 
+<section id="programming-languages">
+
 <h2 align="center">Programming Languages</h2>
 
-<p align="center">My primary programming languages are **Go (Golang)**, **JavaScript**, and **TypeScript**. I use them for **backend development, APIs, CLI tools, automation, web applications, and Linux development**.</p>
+<p align="center">
+  My primary programming languages are <strong>Go (Golang)</strong>,
+  <strong>JavaScript</strong>, and <strong>TypeScript</strong>. I use them for
+  <strong>backend development, APIs, CLI tools, automation, web applications,
+  and Linux development</strong>.
+</p>
 
+    <h3 >Go (Golang) Developer</h3>
 
-### Go (Golang) Developer
+    <p >
+    Building fast, reliable, and scalable <strong>backend services, REST APIs,
+    CLI applications, networking tools, and Linux utilities</strong>.
+    </p>
 
-Building fast, reliable, and scalable **backend services, REST APIs, CLI applications, networking tools, and Linux utilities**.
+    <h3">JavaScript Developer</h3>
 
-### JavaScript Developer
+    <p>
+    Building modern <strong>web applications, backend services, APIs,
+    automation tools, and developer tooling</strong>.
+    </p>
 
-Building modern **web applications, backend services, APIs, automation tools, and developer tooling**.
+    <h3>TypeScript Developer</h3>
 
-### TypeScript Developer
+    <p>
+    Building scalable <strong>applications, backend services, APIs,
+    and maintainable JavaScript projects</strong>.
+    </p>
 
-Building scalable **applications, backend services, APIs, and maintainable JavaScript projects**.
+</section>
