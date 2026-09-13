@@ -1,4 +1,4 @@
-<h1 hidden>AL5hafii - ALShafii</h1>
+<h1 style="display:none">AL5hafii - ALShafii</h1>
 
 <div align="center" id="banner">
     <pre>
@@ -23,23 +23,23 @@
     </p>
     <ul>
         <li>
-            <h3>Go (Golang) <span hidden>Programming Language</span></h3>
+            <h3>Go (Golang) <span style="display:none">Programming Language</span></h3>
             <p>
-                <span hidden>Golang developer</span> building fast, reliable, scalable backend services,
+                <span style="display:none">Golang developer</span> building fast, reliable, scalable backend services,
                 REST APIs, CLI applications, networking tools, and Linux utilities.
             </p>
         </li>
         <li>
-            <h3>JavaScript <span hidden>Programming Language Developer</span></h3>
+            <h3>JavaScript <span style="display:none">Programming Language Developer</span></h3>
             <p>
-                <span hidden>Golang developer</span> building modern web applications, backend
+                <span style="display:none">Golang developer</span> building modern web applications, backend
                 services, APIs, automation tools, and developer tooling.
             </p>
         </li>
         <li>
-            <h3>TypeScript <span hidden>Programming Language Developer</span></h3>
+            <h3>TypeScript <span style="display:none">Programming Language Developer</span></h3>
             <p>
-                <span hidden>Golang developer</span> building scalable applications, backend services,
+                <span style="display:none">Golang developer</span> building scalable applications, backend services,
                 APIs, and maintainable JavaScript projects.
             </p>
         </li>
