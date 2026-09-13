@@ -16,7 +16,8 @@
 
 <h2 align="center">Programming Languages</h2>
 
-My primary programming languages are **Go (Golang)**, **JavaScript**, and **TypeScript**. I use them for **backend development, APIs, CLI tools, automation, web applications, and Linux development**.
+<p align="center">My primary programming languages are **Go (Golang)**, **JavaScript**, and **TypeScript**. I use them for **backend development, APIs, CLI tools, automation, web applications, and Linux development**.</p>
+
 
 ### Go (Golang) Developer
 
