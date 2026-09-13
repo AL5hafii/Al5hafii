@@ -1,4 +1,4 @@
-<h1 style="display:none">AL5hafii - ALShafii</h1>
+<h1>AL5hafii - ALShafii</h1>
 
 <div align="center" id="banner">
     <pre>
@@ -14,7 +14,7 @@
     </pre>
 </div>
 
-## Programming Languages
+<h2 align="center">Programming Languages</h2>
 
 My primary programming languages are **Go (Golang)**, **JavaScript**, and **TypeScript**. I use them for **backend development, APIs, CLI tools, automation, web applications, and Linux development**.
 
